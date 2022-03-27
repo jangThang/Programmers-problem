@@ -1,68 +1,23 @@
-# Repository Quick Start template
+# Programmers-Online-Judge Solution Repository
 ## Index
   - [Overview](#overview) 
-  - [Getting Started](#getting-started)
-  - [Contributing](#contributing)
   - [Authors](#authors)
   - [License](#license)
 <!--  Other options to write Readme
   - [Deployment](#deployment)
   - [Used or Referenced Projects](Used-or-Referenced-Projects)
 -->
-## About RepositoryTemplate
-<!--Wirte one paragraph of project description -->  
-This project's purpose is to create a make Repository with a collection of default settings  
-
 ## Overview
-<!-- Write Overview about this project -->
-**If you use this template, you can use this function**
-- Issue Template
-- Pull Request Template
-- Commit Template
-- Readme Template
-- Contribute Template
-- Pull Request Build Test(With Github Actions)
+<!--Wirte one paragraph of project description -->  
+This project's purpose is to study algorithms and CS theory
 
-## Getting Started
-**click `Use this template` and use this template!**
-<!--
-### Depencies
- Write about need to install the software and how to install them 
--->
-### Installing
-<!-- A step by step series of examples that tell you how to get a development 
-env running
+- Prograamers-Online-Judge(https://programmers.co.kr)
+- Solution Description(https://star7sss.tistory.com/tag/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
 
-Say what the step will be
-
-    Give the example
-
-And repeat
-
-    until finished
--->
-1. Click `Use this template` button 
-2. Create New Repository
-3. Update Readme and Others(Other features are noted in comments.)
-<!--
-## Deployment
- Add additional notes about how to deploy this on a live system
- -->
-## Contributing
-<!-- Write the way to contribute -->
-I am looking for someone to help with this project. Please advise and point out.  
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
 
 ## Authors
   - [jangThang](https://github.com/JangThang) - **Wooyoung Jang** - <star7sss@naver.com>
 
-See also the list of [contributors](https://github.com/jangThang/readmeTemplate/contributors)
-who participated in this project.
-<!--
-## Used or Referenced Projects
- - [referenced Project](project link) - **LICENSE** - little-bit introduce
--->
 
 ## License
 
